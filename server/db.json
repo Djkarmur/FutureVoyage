@@ -1,0 +1,2292 @@
+{
+  "categories": [],
+  "role": [
+    {
+      "isAuth": false,
+      "admin": {},
+      "hotelOwner": {},
+      "user": {},
+      "id": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "2",
+      "firstName": "vaideek",
+      "lastName": "patel",
+      "email": "vaideek@gmail.com",
+      "password": "Vaid@123",
+      "savedHotels": []
+    },
+    {
+      "id": "3",
+      "firstName": "Jay",
+      "lastName": "patel",
+      "email": "jay@gmail.com",
+      "password": "Jay@123",
+      "savedHotels": []
+    },
+    {
+      "id": "f5db",
+      "firstName": "vatsal",
+      "lastName": "bhatti",
+      "email": "vatsal@gmail.com",
+      "password": "Va@123",
+      "savedHotels": []
+    },
+    {
+      "id": "7395",
+      "firstName": "kishan",
+      "lastName": "patel",
+      "email": "kishan@gmail.com",
+      "password": "Ki@123",
+      "savedHotels": []
+    },
+    {
+      "id": "e636",
+      "firstName": "vishal",
+      "lastName": "Pandey",
+      "email": "asd@gmail.com",
+      "password": "Asd@123",
+      "savedHotels": []
+    },
+    {
+      "id": "a999",
+      "firstName": "vishal",
+      "lastName": "pandey",
+      "email": "dfg@gmail.com",
+      "password": "Dfg@123",
+      "savedHotels": []
+    }
+  ],
+  "hotels": [
+    {
+      "id": "6",
+      "title": "Serenity Resort & Spa",
+      "Location": "Lakefront",
+      "City": "Udaipur",
+      "distance": "Lake Shore",
+      "Description": "Indulge in serenity at our lakeside resort. Unwind with luxurious spa treatments, enjoy breathtaking views, and experience unparalleled tranquility.",
+      "Category": "hotels",
+      "Price": 600,
+      "discountPercentage": 15,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Garden view",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "601",
+          "Type": "Lake View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Lake view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 600
+        },
+        {
+          "RoomNumber": "602",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 400
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.7,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU",
+      "Images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Himalayan Retreat",
+      "Location": "Hilltop",
+      "City": "Manali",
+      "distance": "Mountain View",
+      "Description": "Escape to the tranquil Himalayas at our mountain retreat. Explore pristine landscapes, enjoy adventurous activities, and rejuvenate in nature's embrace.",
+      "Category": "hotels",
+      "Price": 450,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "River view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "701",
+          "Type": "Mountain View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Panoramic view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 450
+        },
+        {
+          "RoomNumber": "702",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Forest view",
+            "Double bed"
+          ],
+          "Price": 300
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.6,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU",
+      "Images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgjiaZ3kh5I9h0QRXx5DKK3vRIPQc8jrvrJ7Pa2HfwFSbQJDuC-CtKBx9OHcLF_NDr-g&usqp=CAU"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Golden Sands Beach Resort",
+      "Location": "Seaside",
+      "City": "Puri",
+      "distance": "Beachfront",
+      "Description": "Experience luxury at our beachfront resort. Bask in the golden sands, indulge in water sports, and unwind with exquisite dining and entertainment.",
+      "Category": "hotels",
+      "Price": 700,
+      "discountPercentage": 20,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "River view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "801",
+          "Type": "Ocean View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Ocean view",
+            "Private beach access",
+            "King bed"
+          ],
+          "Price": 700
+        },
+        {
+          "RoomNumber": "802",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 500
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYxzMJuzTs25it8PAJdGZUoRS1OkBPr7TCmoJsxvOjFcrCI9ZEp4aWO8b0dpJrZd-mLI&usqp=CAU",
+      "Images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3kpXsqg7cKjlXHlUd2khlLOLk-LsVgVQylPTyW46ZKZkvAcSZ8ZdyZakN2-ourjB-oo&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3kpXsqg7cKjlXHlUd2khlLOLk-LsVgVQylPTyW46ZKZkvAcSZ8ZdyZakN2-ourjB-oo&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3kpXsqg7cKjlXHlUd2khlLOLk-LsVgVQylPTyW46ZKZkvAcSZ8ZdyZakN2-ourjB-oo&usqp=CAU"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Cityscape Hotel",
+      "Location": "Downtown",
+      "City": "Bangalore",
+      "distance": "City Center",
+      "Description": "Experience modern elegance at our downtown hotel. Discover vibrant city life, unwind in stylish accommodations, and enjoy fine dining.",
+      "Category": "4-star",
+      "Price": 300,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "River view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1704",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 400
+        },
+        "1702",
+        {
+          "RoomNumber": "1702",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 400
+        },
+        {
+          "RoomNumber": "1703",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 400
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.5,
+      "Thumbnail": "https://example.com/images/city-hotel-thumbnail.jpg",
+      "Images": [
+        "https://example.com/images/cityscape.jpg",
+        "https://example.com/images/lobby.jpg",
+        "https://example.com/images/room.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Riverside Retreat",
+      "Location": "Riverbank",
+      "City": "Varanasi",
+      "distance": "Riverside",
+      "Description": "Embrace tranquility at our riverside retreat. Discover spiritual enlightenment, enjoy serene boat rides, and experience the mystical charm of the Ganges.",
+      "Category": "hotels",
+      "Price": 200,
+      "discountPercentage": 5,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "River view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1001",
+          "Type": "River View Room",
+          "Capacity": 2,
+          "Amenities": [
+            "River view",
+            "Private balcony",
+            "Queen bed"
+          ],
+          "Price": 200
+        },
+        {
+          "RoomNumber": "1002",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 150
+        },
+        {
+          "RoomNumber": "1301",
+          "Type": "Beachfront Bungalow",
+          "Capacity": 2,
+          "Amenities": [
+            "Beach view",
+            "Private terrace",
+            "Queen bed"
+          ],
+          "Price": 300
+        },
+        {
+          "RoomNumber": "1302",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 200
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.3,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEY8rAvpPcORAgLvWDXGwQmbfsyu5RfyuxA&usqp=CAU",
+      "Images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEY8rAvpPcORAgLvWDXGwQmbfsyu5RfyuxA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEY8rAvpPcORAgLvWDXGwQmbfsyu5RfyuxA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEY8rAvpPcORAgLvWDXGwQmbfsyu5RfyuxA&usqp=CAU"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Sunset Paradise Resort",
+      "Location": "Tropical Island",
+      "City": "Goa",
+      "distance": "Beachfront",
+      "Description": "Escape to paradise at our luxurious beachfront resort. Enjoy stunning ocean views, gourmet dining, and relaxing spa treatments. Unwind in our spacious suites with private balconies overlooking the azure waters. Indulge in sumptuous seafood delicacies and cocktails at our beachside restaurant.",
+      "Category": "5-star",
+      "Price": 500,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Panoramic view",
+        "Fireplace",
+        "Two bedrooms (one king bed, one twin bed)"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1403",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 150
+        }
+      ],
+      "bookedRooms": [
+        {
+          "RoomNumber": "103",
+          "Type": "Deluxe Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Ocean view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 500
+        }
+      ],
+      "Rating": 4.8,
+      "Thumbnail": "https://plus.unsplash.com/premium_photo-1697729600112-434ee1c7f670?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z29hfGVufDB8fDB8fHww",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Mountain View Lodge",
+      "Location": "Alpine Retreat",
+      "City": "Shimla",
+      "distance": "Mountain slopes",
+      "Description": "Experience tranquility in our cozy lodge nestled amidst snow-capped peaks. Warm up by the fireplace and savor hearty meals. Take in panoramic views of the surrounding mountains from your spacious balcony. Embark on hiking adventures through lush forests and explore nearby quaint villages.",
+      "Category": "apartments",
+      "Price": 350,
+      "discountPercentage": 15,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Panoramic view",
+        "Fireplace",
+        "Two bedrooms (one king bed, one twin bed)"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "201",
+          "Type": "Mountain Suite",
+          "Capacity": 3,
+          "Amenities": [
+            "Panoramic view",
+            "Fireplace",
+            "Two bedrooms (one king bed, one twin bed)"
+          ],
+          "Price": 350
+        },
+        {
+          "RoomNumber": "202",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Forest view",
+            "Double bed"
+          ],
+          "Price": 250
+        }
+      ],
+      "bookedRooms": [
+        {
+          "RoomNumber": "203",
+          "Type": "Mountain Suite",
+          "Capacity": 3,
+          "Amenities": [
+            "Panoramic view",
+            "Fireplace",
+            "Two bedrooms (one king bed, one twin bed)"
+          ],
+          "Price": 350
+        }
+      ],
+      "Rating": 4.5,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Urban Oasis Hotel",
+      "Location": "City Center",
+      "City": "Mumbai",
+      "distance": "Downtown",
+      "Description": "Discover sophistication in the heart of the city. Our modern hotel offers chic rooms, rooftop bar, and easy access to attractions. Retreat to your stylishly designed room with panoramic city views. Indulge in culinary delights at our rooftop restaurant while enjoying breathtaking sunset vistas over the skyline.",
+      "Category": "apartments",
+      "Price": 200,
+      "discountPercentage": 20,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Skyline view",
+        "Mini-bar",
+        "Queen bed"
+      ],
+      "availableRooms": [],
+      "bookedRooms": [
+        {
+          "RoomNumber": "303",
+          "Type": "City View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Skyline view",
+            "Mini-bar",
+            "Queen bed"
+          ],
+          "Price": 200
+        }
+      ],
+      "Rating": 4.2,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Seaside Retreat Inn",
+      "Location": "Coastal Village",
+      "City": "Kochi",
+      "distance": "Coastal",
+      "Description": "Experience serenity at our charming seaside inn. Relax by the shore, indulge in fresh seafood, and immerse yourself in coastal living. Wake up to the sound of waves and enjoy a leisurely stroll along the pristine beach. Unwind in our cozy rooms with breathtaking ocean views.",
+      "Category": "apartments",
+      "Price": 150,
+      "discountPercentage": 5,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Ocean view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "401",
+          "Type": "Ocean View Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Ocean view",
+            "Private balcony",
+            "Queen bed"
+          ],
+          "Price": 150
+        },
+        {
+          "RoomNumber": "402",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 100
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Serenity Resort & Spa",
+      "Location": "Lakefront",
+      "City": "Udaipur",
+      "distance": "Lake Shore",
+      "Description": "Indulge in serenity at our lakeside resort. Unwind with luxurious spa treatments, enjoy breathtaking views, and experience unparalleled tranquility. Immerse yourself in the natural beauty of Udaipur with boat rides on the tranquil lake. Relax in our elegantly appointed rooms and rejuvenate your senses with our holistic spa therapies.",
+      "Category": "apartments",
+      "Price": 600,
+      "discountPercentage": 15,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Lake view",
+        "Private balcony",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "601",
+          "Type": "Lake View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Lake view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 600
+        },
+        {
+          "RoomNumber": "602",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 400
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.7,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Himalayan Retreat",
+      "Location": "Hilltop",
+      "City": "Manali",
+      "distance": "Mountain View",
+      "Description": "Escape to the tranquil Himalayas at our mountain retreat. Explore pristine landscapes, enjoy adventurous activities, and rejuvenate in nature's embrace. Embark on thrilling trekking expeditions through scenic trails and discover hidden waterfalls. Unwind in our cozy rooms with panoramic views of snow-capped peaks and lush valleys.",
+      "Category": "apartments",
+      "Price": 450,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Panoramic view",
+        "Private balcony",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "701",
+          "Type": "Mountain View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Panoramic view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 450
+        },
+        {
+          "RoomNumber": "702",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Forest view",
+            "Double bed"
+          ],
+          "Price": 300
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.6,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Golden Sands Beach Resort",
+      "Location": "Seaside",
+      "City": "Puri",
+      "distance": "Beachfront",
+      "Description": "Experience luxury at our beachfront resort. Bask in the golden sands, indulge in water sports, and unwind with exquisite dining and entertainment. Enjoy thrilling water adventures like jet skiing and parasailing or simply relax by the poolside with a refreshing cocktail. Delight your taste buds with a wide array of international cuisine at our beachfront restaurant.",
+      "Category": "resorts",
+      "Price": 700,
+      "discountPercentage": 20,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Ocean view",
+        "Private beach access",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "801",
+          "Type": "Ocean View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Ocean view",
+            "Private beach access",
+            "King bed"
+          ],
+          "Price": 700
+        },
+        {
+          "RoomNumber": "802",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 500
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Cityscape Hotel",
+      "Location": "Downtown",
+      "City": "Bangalore",
+      "distance": "City Center",
+      "Description": "Experience modern elegance at our downtown hotel. Discover vibrant city life, unwind in stylish accommodations, and enjoy fine dining. Treat yourself to a shopping spree at nearby luxury boutiques or explore the city's bustling nightlife. Retreat to our spacious rooms featuring contemporary design and state-of-the-art amenities.",
+      "Category": "resorts",
+      "Price": 300,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "City view",
+        "Mini-bar"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "901",
+          "Type": "City View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Mini-bar"
+          ],
+          "Price": 500
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Riverside Retreat",
+      "Location": "Riverbank",
+      "City": "Varanasi",
+      "distance": "Riverside",
+      "Description": "Embrace tranquility at our riverside retreat. Discover spiritual enlightenment, enjoy serene boat rides, and experience the mystical charm of the Ganges. Take a peaceful stroll along the riverbanks and witness the mesmerizing Ganga Aarti ceremony. Retreat to our comfortable rooms adorned with traditional decor and modern comforts.",
+      "Category": "resorts",
+      "Price": 200,
+      "discountPercentage": 5,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "River view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1001",
+          "Type": "River View Room",
+          "Capacity": 2,
+          "Amenities": [
+            "River view",
+            "Private balcony",
+            "Queen bed"
+          ],
+          "Price": 200
+        },
+        {
+          "RoomNumber": "1002",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 150
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.3,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Tranquil Lakeside Resort",
+      "Location": "Lakefront",
+      "City": "Nainital",
+      "distance": "Lake Shore",
+      "Description": "Find tranquility at our lakeside resort in the heart of Nainital. Indulge in serene boat rides on the emerald waters of Naini Lake. Unwind amidst lush greenery and breathtaking mountain views. Explore nearby attractions like Naina Devi Temple and Mall Road. Retreat to our cozy rooms with modern amenities and scenic views.",
+      "Category": "resorts",
+      "Price": 400,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Lake view",
+        "Private balcony",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1101",
+          "Type": "Lake View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Lake view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 400
+        },
+        {
+          "RoomNumber": "1102",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 300
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.6,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Majestic Mountain Retreat",
+      "Location": "Hilltop",
+      "City": "Darjeeling",
+      "distance": "Mountain View",
+      "Description": "Escape to our majestic mountain retreat nestled in the serene hills of Darjeeling. Breathe in the crisp mountain air and enjoy panoramic views of the Himalayas. Explore the town's rich cultural heritage and visit attractions like the Himalayan Mountaineering Institute and Tiger Hill. Relax in our cozy rooms after a day of adventure and exploration.",
+      "Category": "resorts",
+      "Price": 250,
+      "discountPercentage": 5,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Panoramic view",
+        "Private balcony",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1201",
+          "Type": "Mountain View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Panoramic view",
+            "Private balcony",
+            "Queen bed"
+          ],
+          "Price": 250
+        },
+        {
+          "RoomNumber": "1202",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Mountain view",
+            "Double bed"
+          ],
+          "Price": 200
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.2,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Cozy Beachfront Bungalows",
+      "Location": "Beachfront",
+      "City": "Pondicherry",
+      "distance": "Beachfront",
+      "Description": "Experience the charm of Pondicherry at our cozy beachfront bungalows. Relax on the sandy shores of Promenade Beach and soak up the sun. Explore the French Quarter with its colonial architecture and vibrant streets. Indulge in delicious French and local cuisine. Retreat to our comfortable bungalows and fall asleep to the sound of waves.",
+      "Category": "resorts",
+      "Price": 300,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Beach view",
+        "Private terrace",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        "1302"
+      ],
+      "bookedRooms": [],
+      "Rating": 4.4,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Tranquil Forest Retreat",
+      "Location": "Forest Reserve",
+      "City": "Coorg",
+      "distance": "Forest",
+      "Description": "Find peace and tranquility at our forest retreat in Coorg. Immerse yourself in the lush greenery of the Western Ghats and listen to the melodies of nature. Explore the nearby coffee plantations and spice gardens. Unwind in our eco-friendly cottages and reconnect with the essence of nature.",
+      "Category": "3-star",
+      "Price": 250,
+      "discountPercentage": 5,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Forest view",
+        "Private patio",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1402",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 150
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.2,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Serene Hillside Cottage",
+      "Location": "Hillside",
+      "City": "Munnar",
+      "distance": "Mountain View",
+      "Description": "Escape to our serene hillside cottage in Munnar and experience the beauty of the Western Ghats. Wake up to panoramic views of mist-covered mountains and lush tea gardens. Explore the picturesque hill stations and waterfalls nearby. Relax in our cozy cottage and savor the tranquility of nature.",
+      "Category": "villas",
+      "Price": 350,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Mountain view",
+        "Private balcony",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1502",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 250
+        },
+        {
+          "RoomNumber": "1501",
+          "Type": "Mountain View Cottage",
+          "Capacity": 2,
+          "Amenities": [
+            "Mountain view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 350
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.7,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Rustic Farmhouse Retreat",
+      "Location": "Countryside",
+      "City": "Ooty",
+      "distance": "Rural",
+      "Description": "Experience the charm of rural life at our rustic farmhouse retreat in Ooty. Immerse yourself in the tranquil countryside surrounded by lush greenery and rolling hills. Explore the nearby tea estates and botanical gardens. Relax in our cozy farmhouse and enjoy farm-to-table meals made with fresh local produce.",
+      "Category": "villas",
+      "Price": 200,
+      "discountPercentage": 5,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Countryside view",
+        "Private veranda",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1601",
+          "Type": "Farmhouse Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Countryside view",
+            "Private veranda",
+            "Queen bed"
+          ],
+          "Price": 200
+        },
+        {
+          "RoomNumber": "1602",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Double bed"
+          ],
+          "Price": 150
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.3,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Heritage Palace Hotel",
+      "Location": "Historic District",
+      "City": "Mysore",
+      "distance": "City Center",
+      "Description": "Step into a world of regal splendor at our heritage palace hotel in Mysore. Marvel at the magnificent architecture and opulent interiors reminiscent of a bygone era. Explore the rich cultural heritage of Mysore with visits to the Mysore Palace and Chamundi Hill. Indulge in royal hospitality and experience the grandeur of a princely lifestyle.",
+      "Category": "villas",
+      "Price": 500,
+      "discountPercentage": 15,
+      "ownedBy": "dfg@gmail.com",
+      "noOfReviews": 20,
+      "reviews": [],
+      "Amenities": [
+        "Palace view",
+        "Luxury furnishings",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1701",
+          "Type": "Palace Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Palace view",
+            "Luxury furnishings",
+            "King bed"
+          ],
+          "Price": 500
+        },
+        {
+          "RoomNumber": "1702",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 400
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Safari Wilderness Camp",
+      "Location": "Wildlife Reserve",
+      "City": "Bandipur",
+      "distance": "Wilderness",
+      "Description": "Embark on an unforgettable safari adventure at our wilderness camp in Bandipur. Explore the untamed beauty of the jungle and encounter diverse wildlife including elephants, tigers, and leopards. Settle into our cozy tents amidst nature and experience the thrill of a nocturnal safari under the stars.",
+      "Category": "villas",
+      "Price": 400,
+      "discountPercentage": 10,
+      "ownedBy": "dfg@gmail.com",
+      "Amenities": [
+        "Ocean view",
+        "Private balcony",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1802",
+          "Type": "Standard Tent",
+          "Capacity": 2,
+          "Amenities": [
+            "Palace view",
+            "Luxury furnishings",
+            "King bed"
+          ],
+          "Price": 500
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Taj Mahal Palace",
+      "Location": "Mumbai Central",
+      "City": "Mumbai",
+      "distance": "City Center",
+      "Description": "Experience luxury at its finest at the iconic Taj Mahal Palace in Mumbai. Enjoy unparalleled views of the Arabian Sea and impeccable service.",
+      "Category": "villas",
+      "Price": 800,
+      "discountPercentage": 10,
+      "ownedBy": "tajmahal@gmail.com",
+      "Amenities": [
+        "Sea view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "701",
+          "Type": "Sea View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Sea view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1000
+        },
+        {
+          "RoomNumber": "702",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 600
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Gateway Hotel",
+      "Location": "Vadapalani",
+      "City": "Chennai",
+      "distance": "City Center",
+      "Description": "Discover the perfect blend of comfort and convenience at Gateway Hotel Chennai. Enjoy spacious rooms, delicious cuisine, and warm hospitality.",
+      "Category": "cabins",
+      "Price": 600,
+      "discountPercentage": 20,
+      "ownedBy": "gatewaychennai@gmail.com",
+      "Amenities": [
+        "City view",
+        "Swimming pool",
+        "Queen bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "801",
+          "Type": "Executive Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 700
+        },
+        {
+          "RoomNumber": "802",
+          "Type": "Standard Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 500
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.5,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Grand Hyatt",
+      "Location": "Bandra Kurla Complex",
+      "City": "Mumbai",
+      "distance": "City Center",
+      "Description": "Experience luxury redefined at Grand Hyatt Mumbai. From lavish accommodations to world-class dining, indulge in an unforgettable stay.",
+      "Category": "cabins",
+      "Price": 900,
+      "discountPercentage": 15,
+      "ownedBy": "grandhyattmumbai@gmail.com",
+      "Amenities": [
+        "Pool view",
+        "Spa",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "902",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 700
+        },
+        {
+          "RoomNumber": "901",
+          "Type": "Grand Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Pool view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1000
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.7,
+      "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFGrC3FABTZgrupZ4BwclRTi_wL_8OIxQtw&usqp=CAU",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Le Meridien",
+      "Location": "Raja Bazar",
+      "City": "Patna",
+      "distance": "City Center",
+      "Description": "Discover the essence of luxury at Le Meridien Patna. Enjoy opulent accommodations, delectable cuisine, and personalized service.",
+      "Category": "cabins",
+      "Price": 700,
+      "discountPercentage": 18,
+      "ownedBy": "lemeridienpatna@gmail.com",
+      "Amenities": [
+        "River view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "1001",
+          "Type": "River View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "River view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 800
+        },
+        {
+          "RoomNumber": "1002",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 600
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.6,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "The Oberoi Amarvilas",
+      "Location": "Taj East Gate Road",
+      "City": "Agra",
+      "distance": "City Center",
+      "Description": "Experience the epitome of luxury at The Oberoi Amarvilas, located just 600 meters from the iconic Taj Mahal. Enjoy breathtaking views, impeccable service, and opulent accommodations.",
+      "Category": "cabins",
+      "Price": 1200,
+      "discountPercentage": 10,
+      "ownedBy": "oberoiamarvilas@gmail.com",
+      "Amenities": [
+        "Taj Mahal view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "3501",
+          "Type": "Taj View Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Taj Mahal view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1500
+        },
+        {
+          "RoomNumber": "3502",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 1000
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.9,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "The Leela Palace",
+      "Location": "Kempinski Ambience",
+      "City": "Delhi",
+      "distance": "City Center",
+      "Description": "Indulge in luxury and grandeur at The Leela Palace, New Delhi. Experience world-class hospitality, lavish amenities, and exquisite dining.",
+      "Category": "cabins",
+      "Price": 1100,
+      "discountPercentage": 15,
+      "ownedBy": "leelapalace@gmail.com",
+      "Amenities": [
+        "City view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "3601",
+          "Type": "Royal Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1400
+        },
+        {
+          "RoomNumber": "3602",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 900
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Taj Lake Palace",
+      "Location": "Pichola Lake",
+      "City": "Udaipur",
+      "distance": "Lake Shore",
+      "Description": "Experience unparalleled luxury and romance at Taj Lake Palace, located amidst the serene waters of Lake Pichola. Enjoy regal accommodations, fine dining, and breathtaking views.",
+      "Category": "cabins",
+      "Price": 1400,
+      "discountPercentage": 10,
+      "ownedBy": "tajlakepalace@gmail.com",
+      "Amenities": [
+        "Lake view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "3701",
+          "Type": "Royal Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Lake view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1800
+        },
+        {
+          "RoomNumber": "3702",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 1200
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.9,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "The Lalit",
+      "Location": "Near Connaught Place",
+      "City": "Delhi",
+      "distance": "City Center",
+      "Description": "Experience luxury and elegance at The Lalit, New Delhi. Enjoy world-class amenities, fine dining, and impeccable service at the heart of the capital city.",
+      "Category": "cabins",
+      "Price": 950,
+      "discountPercentage": 10,
+      "ownedBy": "thelalitdelhi@gmail.com",
+      "Amenities": [
+        "City view",
+        "Swimming pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "3801",
+          "Type": "Executive Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1200
+        },
+        {
+          "RoomNumber": "3802",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 800
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.7,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "The Oberoi Udaivilas",
+      "Location": "Haridasji Ki Magri",
+      "City": "Udaipur",
+      "distance": "City Center",
+      "Description": "Experience luxury like never before at The Oberoi Udaivilas, Udaipur. Set against the backdrop of Lake Pichola, this palace hotel offers opulent accommodations, exquisite dining, and unparalleled service.",
+      "Category": "cottages",
+      "Price": 1300,
+      "discountPercentage": 12,
+      "ownedBy": "oberoiudaivilas@gmail.com",
+      "Amenities": [
+        "Lake view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "3901",
+          "Type": "Premier Room with Semi-Private Pool",
+          "Capacity": 2,
+          "Amenities": [
+            "Lake view",
+            "Semi-private pool",
+            "King bed"
+          ],
+          "Price": 1600
+        },
+        {
+          "RoomNumber": "3902",
+          "Type": "Luxury Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Lake view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1800
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.9,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "The Leela Palace",
+      "Location": "Old Airport Road",
+      "City": "Bangalore",
+      "distance": "City Center",
+      "Description": "Indulge in luxury and sophistication at The Leela Palace, Bangalore. Experience unmatched opulence, fine dining, and warm hospitality in the heart of the city.",
+      "Category": "cottages",
+      "Price": 1000,
+      "discountPercentage": 15,
+      "ownedBy": "leelapalaceblr@gmail.com",
+      "Amenities": [
+        "City view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "4001",
+          "Type": "Royal Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1300
+        },
+        {
+          "RoomNumber": "4002",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 900
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "The Oberoi Rajvilas",
+      "Location": "Goner Road",
+      "City": "Jaipur",
+      "distance": "City Center",
+      "Description": "Experience the grandeur of Rajasthan at The Oberoi Rajvilas, Jaipur. Set amidst 32 acres of lush gardens, this luxury resort offers royal accommodations, exquisite dining, and rejuvenating spa treatments.",
+      "Category": "cottages",
+      "Price": 1100,
+      "discountPercentage": 10,
+      "ownedBy": "oberoirajvilas@gmail.com",
+      "Amenities": [
+        "Garden view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "4101",
+          "Type": "Luxury Tent",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1400
+        },
+        {
+          "RoomNumber": "4102",
+          "Type": "Premier Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Garden view",
+            "Queen bed"
+          ],
+          "Price": 1000
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.9,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "The Leela Palace",
+      "Location": "ITPL",
+      "City": "Bangalore",
+      "distance": "City Center",
+      "Description": "Experience unparalleled luxury and comfort at The Leela Palace, Bangalore. Indulge in exquisite dining, rejuvenating spa treatments, and unmatched hospitality.",
+      "Category": "home stays",
+      "Price": 950,
+      "discountPercentage": 10,
+      "ownedBy": "leelapalacebangalore@gmail.com",
+      "Amenities": [
+        "City view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "4201",
+          "Type": "Grand Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1200
+        },
+        {
+          "RoomNumber": "4202",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 800
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "The Oberoi Mumbai",
+      "Location": "Nariman Point",
+      "City": "Mumbai",
+      "distance": "City Center",
+      "Description": "Experience luxury and sophistication at The Oberoi Mumbai. Enjoy breathtaking views of the Arabian Sea, luxurious accommodations, and unparalleled hospitality.",
+      "Category": "hostels",
+      "Price": 1000,
+      "discountPercentage": 12,
+      "ownedBy": "oberoimumbai@gmail.com",
+      "Amenities": [
+        "Sea view",
+        "Infinity pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "4301",
+          "Type": "Premier Ocean View Room",
+          "Capacity": 2,
+          "Amenities": [
+            "Sea view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1200
+        },
+        {
+          "RoomNumber": "4302",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 800
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.7,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "The Westin Kolkata",
+      "Location": "Rajarhat",
+      "City": "Kolkata",
+      "distance": "City Center",
+      "Description": "Experience modern luxury and comfort at The Westin Kolkata. Indulge in world-class amenities, delicious cuisine, and rejuvenating spa treatments.",
+      "Category": "guest houses",
+      "Price": 900,
+      "discountPercentage": 15,
+      "ownedBy": "westinkolkata@gmail.com",
+      "Amenities": [
+        "City view",
+        "Swimming pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "4401",
+          "Type": "Executive Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1100
+        },
+        {
+          "RoomNumber": "4402",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 750
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.6,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "The Oberoi Cecil",
+      "Location": "Chaura Maidan",
+      "City": "Shimla",
+      "distance": "City Center",
+      "Description": "Experience colonial charm and elegance at The Oberoi Cecil, Shimla. Nestled amidst cedar forests, this heritage hotel offers luxurious accommodations, fine dining, and warm hospitality.",
+      "Category": "vacation homes",
+      "Price": 850,
+      "discountPercentage": 10,
+      "ownedBy": "oberoishimla@gmail.com",
+      "Amenities": [
+        "Mountain view",
+        "Swimming pool",
+        "King bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "4501",
+          "Type": "Luxury Suite",
+          "Capacity": 2,
+          "Amenities": [
+            "Mountain view",
+            "Private balcony",
+            "King bed"
+          ],
+          "Price": 1000
+        },
+        {
+          "RoomNumber": "4502",
+          "Type": "Deluxe Room",
+          "Capacity": 2,
+          "Amenities": [
+            "City view",
+            "Queen bed"
+          ],
+          "Price": 700
+        }
+      ],
+      "bookedRooms": [],
+      "Rating": 4.8,
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Hotel Royal care",
+      "Location": "thaltej",
+      "City": "ahmedabad",
+      "distance": "3 km from sg road",
+      "Description": "This repo contains all the folders for revision and practice purpose.",
+      "Category": "resort villages",
+      "Price": "1200",
+      "discountPercentage": "14",
+      "Amenities": [
+        "garden view",
+        " private balcony",
+        " king bed"
+      ],
+      "availableRooms": [],
+      "Rating": "4.5",
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "47",
+      "title": "Vacation home",
+      "Location": "City Center chawk",
+      "City": "ahmedabad",
+      "distance": "Downtown",
+      "Description": "This repo contains all the folders for revision and practice purpose.",
+      "Category": "resort villages",
+      "Price": "1200",
+      "discountPercentage": "14",
+      "Amenities": [
+        "garden view",
+        " private balcony",
+        " king bed"
+      ],
+      "availableRooms": [],
+      "Rating": "4.3",
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ],
+      "reviews": [],
+      "ownedBy": "dj@gmail.com"
+    },
+    {
+      "id": "48",
+      "title": "Hotel Parimal",
+      "Location": "City Center police station",
+      "City": "Mumbai",
+      "distance": "3 km from Marine road",
+      "Description": "This repo contains all the folders for revision and practice purpose.",
+      "Category": "motels",
+      "Price": "500",
+      "discountPercentage": "15",
+      "Amenities": [
+        "garden view",
+        " private balcony",
+        " king bed"
+      ],
+      "Rating": "4.5",
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ],
+      "reviews": [],
+      "ownedBy": "dj@gmail.com"
+    },
+    {
+      "id": "49",
+      "title": "Hotel Parimal",
+      "Location": "City Center police station",
+      "City": "Mumbai",
+      "distance": "3 km from Marine road",
+      "Description": "This repo contains all the folders for revision and practice purpose.",
+      "Category": "motels",
+      "Price": "500",
+      "discountPercentage": "15",
+      "Amenities": [
+        "garden view",
+        " private balcony",
+        " king bed"
+      ],
+      "Rating": "4.5",
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ],
+      "reviews": [],
+      "ownedBy": "dj@gmail.com"
+    },
+    {
+      "id": "50",
+      "title": "Hotel Parimal",
+      "Location": "City Center police station",
+      "City": "Mumbai",
+      "distance": "3 km from Marine road",
+      "Description": "This repo contains all the folders for revision and practice purpose.",
+      "Category": "motels",
+      "Price": "500",
+      "discountPercentage": "15",
+      "Amenities": [
+        "garden view",
+        " private balcony",
+        " king bed"
+      ],
+      "Rating": "4.5",
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ],
+      "reviews": [],
+      "ownedBy": "dj@gmail.com"
+    },
+    {
+      "id": "51",
+      "title": "Hotel Parimal",
+      "Location": "City Center police station",
+      "City": "Mumbai",
+      "distance": "3 km from Marine road",
+      "Description": "This repo contains all the folders for revision and practice purpose.",
+      "Category": "vacation homes",
+      "Price": "500",
+      "discountPercentage": "15",
+      "Amenities": [
+        "garden view",
+        " private balcony",
+        " king bed"
+      ],
+      "availableRooms": [
+        {
+          "RoomNumber": "102"
+        },
+        {
+          "RoomNumber": "103"
+        },
+        {
+          "RoomNumber": "104"
+        },
+        {
+          "RoomNumber": "105"
+        },
+        {
+          "RoomNumber": "101"
+        }
+      ],
+      "Rating": "4.5",
+      "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+      "Images": [
+        "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+      ],
+      "reviews": [],
+      "ownedBy": "dj@gmail.com"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "38b1",
+      "hotel": {
+        "id": "51",
+        "title": "Hotel Parimal",
+        "Location": "City Center police station",
+        "City": "Mumbai",
+        "distance": "3 km from Marine road",
+        "Description": "This repo contains all the folders for revision and practice purpose.",
+        "Category": "vacation homes",
+        "Price": "500",
+        "discountPercentage": "15",
+        "Amenities": [
+          "garden view",
+          " private balcony",
+          " king bed"
+        ],
+        "availableRooms": [
+          {
+            "RoomNumber": "103"
+          },
+          {
+            "RoomNumber": "104"
+          },
+          {
+            "RoomNumber": "105"
+          }
+        ],
+        "Rating": "4.5",
+        "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "Images": [
+          "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+        ],
+        "reviews": [],
+        "ownedBy": "dj@gmail.com"
+      },
+      "hotelId": "51",
+      "userId": null,
+      "bookingId": 1,
+      "checkInDate": "2024-04-12T04:41:36.768Z",
+      "checkOutDate": "2024-04-12T04:41:36.768Z",
+      "noOfRoom": 1,
+      "guests": 1,
+      "allocatedRooms": [
+        {
+          "RoomNumber": "102"
+        }
+      ],
+      "status": "accepted"
+    },
+    {
+      "id": "5c81",
+      "hotel": {
+        "id": "51",
+        "title": "Hotel Parimal",
+        "Location": "City Center police station",
+        "City": "Mumbai",
+        "distance": "3 km from Marine road",
+        "Description": "This repo contains all the folders for revision and practice purpose.",
+        "Category": "vacation homes",
+        "Price": "500",
+        "discountPercentage": "15",
+        "Amenities": [
+          "garden view",
+          " private balcony",
+          " king bed"
+        ],
+        "availableRooms": [
+          {
+            "RoomNumber": "104"
+          },
+          {
+            "RoomNumber": "105"
+          }
+        ],
+        "Rating": "4.5",
+        "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "Images": [
+          "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+        ],
+        "reviews": [],
+        "ownedBy": "dj@gmail.com"
+      },
+      "hotelId": "51",
+      "userId": null,
+      "bookingId": 1,
+      "checkInDate": "2024-04-12T04:41:37.528Z",
+      "checkOutDate": "2024-04-12T04:41:37.528Z",
+      "noOfRoom": 1,
+      "guests": 1,
+      "allocatedRooms": [
+        {
+          "RoomNumber": "103"
+        }
+      ],
+      "status": "accepted"
+    },
+    {
+      "id": "1fc7",
+      "hotel": {
+        "id": "51",
+        "title": "Hotel Parimal",
+        "Location": "City Center police station",
+        "City": "Mumbai",
+        "distance": "3 km from Marine road",
+        "Description": "This repo contains all the folders for revision and practice purpose.",
+        "Category": "vacation homes",
+        "Price": "500",
+        "discountPercentage": "15",
+        "Amenities": [
+          "garden view",
+          " private balcony",
+          " king bed"
+        ],
+        "availableRooms": [
+          {
+            "RoomNumber": "105"
+          }
+        ],
+        "Rating": "4.5",
+        "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "Images": [
+          "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+        ],
+        "reviews": [],
+        "ownedBy": "dj@gmail.com"
+      },
+      "hotelId": "51",
+      "userId": null,
+      "bookingId": 1,
+      "checkInDate": "2024-04-12T04:41:40.857Z",
+      "checkOutDate": "2024-04-12T04:41:40.857Z",
+      "noOfRoom": 1,
+      "guests": 1,
+      "allocatedRooms": [
+        {
+          "RoomNumber": "104"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "de4d",
+      "hotel": {
+        "id": "51",
+        "title": "Hotel Parimal",
+        "Location": "City Center police station",
+        "City": "Mumbai",
+        "distance": "3 km from Marine road",
+        "Description": "This repo contains all the folders for revision and practice purpose.",
+        "Category": "vacation homes",
+        "Price": "500",
+        "discountPercentage": "15",
+        "Amenities": [
+          "garden view",
+          " private balcony",
+          " king bed"
+        ],
+        "availableRooms": [],
+        "Rating": "4.5",
+        "Thumbnail": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "Images": [
+          "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1581892197913-fd2e407e698a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29hfGVufDB8fDB8fHww",
+          "https://images.unsplash.com/photo-1582972236019-ea4af5ffe587?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29hfGVufDB8fDB8fHww"
+        ],
+        "reviews": [],
+        "ownedBy": "dj@gmail.com"
+      },
+      "hotelId": "51",
+      "userId": null,
+      "bookingId": 1,
+      "checkInDate": "2024-04-12T04:41:41.005Z",
+      "checkOutDate": "2024-04-12T04:41:41.005Z",
+      "noOfRoom": 1,
+      "guests": 1,
+      "allocatedRooms": [
+        {
+          "RoomNumber": "105"
+        }
+      ],
+      "status": "pending"
+    }
+  ],
+  "hotelowner": [
+    {
+      "id": "1a3b",
+      "firstName": "vishal",
+      "lastName": "pandey",
+      "hotelName": "hotel heaven",
+      "email": "aws@gmail.com",
+      "password": "Aws@123",
+      "categoriesToOffer": []
+    }
+  ],
+  "cities": [
+    {
+      "name": "Ahmedabad",
+      "image": "https://media.istockphoto.com/id/1290895895/photo/ahmedabad.webp?b=1&s=170667a&w=0&k=20&c=pasR40JFdgY8EwJEuVRrb2FrhW3dZfugoknqsGluvEA=",
+      "id": "c060"
+    },
+    {
+      "name": "Udaipur",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNLK1anUojafl-zJ7ZANRVVbFMZtZ48rpav1CHRSlTc44IjJcuVnuTDSOrDvc56n5gdB4&usqp=CAU",
+      "id": "277b"
+    },
+    {
+      "name": "Agra",
+      "image": "https://images.unsplash.com/photo-1596796679119-7cf1a9e5448b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": "6ddf"
+    },
+    {
+      "name": "Coorg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYs3VkF_c4gKdaaADU41rUw9YEPpLKu7lbfcKbkXQsUTDVx5dHTMjU0C77g&s",
+      "id": "b261"
+    },
+    {
+      "name": "Patna",
+      "image": "https://images.unsplash.com/photo-1596796679119-7cf1a9e5448b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": "8061"
+    },
+    {
+      "name": "Bandipur",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lPm0oA4Mv52p9BCHaVrz2QGeLUd-AI3z6whzgU5Bp2cBbOLwz0vBn_572Q&s",
+      "id": "3a30"
+    },
+    {
+      "name": "Mysore",
+      "image": "https://images.unsplash.com/photo-1561819510-d31fda2bd345?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5kaWFuJTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": "4e10"
+    },
+    {
+      "name": "Ooty",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0o-nFH4oWZ-j8XpLmEQmbDFHFp-ACzk1gRSJJkFZjDGdVjoKFMngOlv-ag&s",
+      "id": "4ec5"
+    },
+    {
+      "name": "Munnar",
+      "image": "https://images.unsplash.com/photo-1566577529803-7aced417384b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW5kaWFuJTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": "b254"
+    },
+    {
+      "name": "PondiCherry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0o-nFH4oWZ-j8XpLmEQmbDFHFp-ACzk1gRSJJkFZjDGdVjoKFMngOlv-ag&s",
+      "id": "7ea4"
+    },
+    {
+      "name": "Darjeeling",
+      "image": "https://images.unsplash.com/photo-1566577529803-7aced417384b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW5kaWFuJTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": "c131"
+    }
+  ]
+}
